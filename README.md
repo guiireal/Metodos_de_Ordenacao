@@ -1,2 +1,5 @@
-# Metodos_de_ordenacao
-Abordagem dos métodos bolha, seleção e inserção através de algoritmos de testes
+# Metodos_de_Ordenacao
+Programa que realiza diversos testes utilizando os métodos de ordenação bolha, seleção e inserção
+
+Autor: Guilherme França 
+- Todos os direitos reservados
